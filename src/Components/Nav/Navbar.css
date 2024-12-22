@@ -1,0 +1,39 @@
+.body{
+    background-color: #000000;
+    color: #fff;
+    display: flex;
+    height: auto;
+    justify-content: space-between;
+}
+
+.btn-signin {
+    background-color: #4C5FD5;
+}
+
+.btn-request {
+    background-color: #c3c3c3;
+}
+
+.buttons {
+    display: flex;
+    margin: 10px;
+    align-items: center;
+    margin-right: 20px;
+    
+}
+
+button {
+    border-radius: 6px;
+    color: #fff;
+    height: 30px;
+}
+
+.left-side {
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.heading {
+    padding-right: 10px;
+}
